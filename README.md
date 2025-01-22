@@ -1,6 +1,8 @@
-# Project-on-Downloading-Data
+# Project-on-Generating-Data
 ## This project was assigned by Arewa DS as part of the requirements for completing the Python Programming Fellowship Training.
 ### Conducted by Sa'adu Yusuf Cohort 3 member
-1. **Downloading Data**: This could involve fetching data from various sources such as APIs, websites, or databases.
-2. **Processing Data**: This step includes cleaning, transforming, and preparing the data for analysis. It might involve handling missing values, converting data types, or aggregating data.
-3. **Visualizing Data**: This involves creating visual representations of the data, such as charts, graphs, or maps, to help understand and communicate the insights.
+#### You want to focus on generating data and visualizing it using Python libraries. This typically involves creating datasets (either synthetic or using existing data), processing them, and visualizing the insights using tools like Matplotlib, Seaborn, or Plotly.
+### Objective of the project
+# Data Generation
+# Data Visualization
+# Project  Workflow
